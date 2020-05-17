@@ -1,0 +1,9 @@
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClinetRemake.csprojAssemblyReference.cache
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClentRemake.Form1.resources
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClinetRemake.Properties.Resources.resources
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClinetRemake.csproj.GenerateResource.cache
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\bin\Debug\SocketClinetRemake.exe.config
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\bin\Debug\SocketClinetRemake.exe
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\bin\Debug\SocketClinetRemake.pdb
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClinetRemake.exe
+C:\Users\Tsao Jia Hao\source\repos\SocketClinetRemake\SocketClinetRemake\obj\Debug\SocketClinetRemake.pdb

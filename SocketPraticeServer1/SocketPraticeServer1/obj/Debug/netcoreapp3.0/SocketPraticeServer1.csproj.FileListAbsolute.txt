@@ -1,0 +1,11 @@
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.exe
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.deps.json
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.runtimeconfig.json
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.runtimeconfig.dev.json
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.dll
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\bin\Debug\netcoreapp3.0\SocketPraticeServer1.pdb
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\obj\Debug\netcoreapp3.0\SocketPraticeServer1.AssemblyInfoInputs.cache
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\obj\Debug\netcoreapp3.0\SocketPraticeServer1.AssemblyInfo.cs
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\obj\Debug\netcoreapp3.0\SocketPraticeServer1.dll
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\obj\Debug\netcoreapp3.0\SocketPraticeServer1.pdb
+C:\Users\Tsao Jia Hao\source\repos\SocketPraticeServer1\SocketPraticeServer1\obj\Debug\netcoreapp3.0\SocketPraticeServer1.csprojAssemblyReference.cache
