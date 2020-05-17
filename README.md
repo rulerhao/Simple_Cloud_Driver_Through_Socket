@@ -11,6 +11,7 @@ The program is designed to quickly upload and copy files to a server side.
 
 
 # How to use
+Watch the gif or example video in folder.
 1.Open server.exe
 2.Open Client.exe
 
