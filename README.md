@@ -2,7 +2,7 @@
 
 # Example video
 
-![Example_video](Simple_Cloud_Driver_Through_Socket/Example-video.gif)
+![Example_video](/Example-video.gif)
 
 # Introduction
 The program is designed to quickly upload and copy files to a server side.
